@@ -8,6 +8,7 @@
 int main()
 {
 	std::cout << "Hello"<<std::endl;
+	//komentarz dodany na zdalnym repozytorium
     return 0;
 }
 
